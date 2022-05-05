@@ -15,3 +15,15 @@ Please pre-configure the ~/.ssh/config file.
 
 ## Run
 > msh
+
+## The result of the script
+> Please select which Host to use SSH with:
+>
+> Existing SSH [pre]sets:
+> [1]:    root@bridge1
+> [2]:    root@nat1
+> [3]:    root@kvmsrv
+> [4]:    root@
+> 
+> Please select a valid host number (from 1 to 4)>
+
