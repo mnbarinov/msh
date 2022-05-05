@@ -11,7 +11,7 @@ Please pre-configure the ~/.ssh/config file.
 
 > wget https://raw.githubusercontent.com/mnbarinov/msh/main/msh.sh<br />
 > chmod +x msh.sh<br />
-> mv msh.sh /usr/bin/<br />
+> mv msh.sh /usr/bin/msh<br />
 
 ## Run
 > msh
