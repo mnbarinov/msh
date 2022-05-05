@@ -1,4 +1,7 @@
 # Bash Minicom Style SSH Manager
+
+![MSH](https://raw.githubusercontent.com/mnbarinov/msh/main/msh.png)
+
 ## About
 
 The script gets information about SSH sessions from the ~/.ssh/config file.<br />
